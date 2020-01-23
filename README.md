@@ -2,9 +2,9 @@
 
 *Objectif* :
 
-Le but de ce challenge est de pratiquer le CSS en se basant sur l'illustration sur le dossier : 
+Le but de ce challenge est de pratiquer le CSS en se basant sur l'illustration : 
 
-> images/illustration.png
+> illustration.png
 
 ## Contexte pédagogique: 
 
